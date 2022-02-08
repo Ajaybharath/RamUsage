@@ -32,6 +32,7 @@ namespace RamUsage.Controllers
                     rd.RamUsage = Math.Round(percent, 2).ToString();
                     rd.DateTime = DateTime.Now.ToString();
                 }
+
                 return rd;
             }
             catch (Exception exx)
@@ -39,7 +40,7 @@ namespace RamUsage.Controllers
                 return exx.Message;
                 //exx = null;
             }
-           
+
         }
     }
 }
