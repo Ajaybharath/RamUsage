@@ -82,3 +82,4 @@ D:\ProjectGit\RamUsage\RamUsage\obj\Release\RamUsage.csproj.CoreCompileInputs.ca
 D:\ProjectGit\RamUsage\RamUsage\obj\Release\RamUsage.csproj.CopyComplete
 D:\ProjectGit\RamUsage\RamUsage\obj\Release\RamUsage.dll
 D:\ProjectGit\RamUsage\RamUsage\obj\Release\RamUsage.pdb
+D:\ProjectGit\RamUsage\RamUsage\obj\Release\RamUsage.csproj.AssemblyReference.cache
